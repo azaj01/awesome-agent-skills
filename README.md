@@ -251,13 +251,9 @@ Official skills by Venice.ai for the Venice API.
 <details open>
 <summary><h3 style="display:inline">Skills by Vercel Engineering Team</h3></summary>
 
-- **[vercel-labs/react-best-practices](https://officialskills.sh/vercel-labs/skills/react-best-practices)** - React best practices and patterns
-- **[vercel-labs/web-design-guidelines](https://officialskills.sh/vercel-labs/skills/web-design-guidelines)** - Web design guidelines and standards
-- **[vercel-labs/composition-patterns](https://officialskills.sh/vercel-labs/skills/composition-patterns)** - React component composition and reusable patterns
 - **[vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices)** - Next.js best practices and recommended patterns
 - **[vercel-labs/next-cache-components](https://officialskills.sh/vercel-labs/skills/next-cache-components)** - Caching strategies and cache-aware components in Next.js
 - **[vercel-labs/next-upgrade](https://officialskills.sh/vercel-labs/skills/next-upgrade)** - Upgrade Next.js projects to newer versions
-- **[vercel-labs/react-native-skills](https://officialskills.sh/vercel-labs/skills/react-native-skills)** - React Native best practices and performance guidelines
 
 </details>
 
